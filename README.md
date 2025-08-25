@@ -1,16 +1,81 @@
-## Hi there 👋
+# 👋 Hi there, I'm Tharun Reddy S
 
-<!--
-**tharunreddy08/tharunreddy08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Passionate Software Developer, UI/UX Designer & AI Enthusiast | 🚀 Aspiring Full Stack Developer
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🏆 Achievements
+- Winner of a hackathon and symposium  
+- Recognized as Coding Club Champion  
+
+---
+
+### 🔭 I’m currently working on
+- Developing full-stack applications using **MERN stack**  
+- Strengthening my **Data Structures and Algorithms** problem-solving skills  
+
+---
+
+### 🌱 I’m currently learning
+- **Java** and **Data Structures & Algorithms** to enhance my problem-solving abilities  
+- Advanced **React.js**  
+- Backend development with **Node.js** and **Express.js**  
+- Database design and management with **MongoDB** and **MySQL**
+
+---
+
+### 👯 I’m looking to collaborate on
+- MERN stack based open-source projects  
+- Innovative **web development** ideas  
+
+---
+
+### 🤔 I’m looking for help with
+- Improving my knowledge of **System Design**  
+- Writing **optimized and scalable code**
+
+---
+
+### 💬 Ask me about
+- Frontend development with **React**, **JavaScript**, **TailwindCSS**  
+- Building RESTful APIs with **Node.js**, **Express**, **MongoDB**  
+- My journey as a passionate learner and developer  
+
+---
+
+### 📫 How to reach me
+- 📧 **Email:** tharun.reddy@example.com *(Replace with your actual email)*  
+- 💼 **LinkedIn:** [linkedin.com/in/tharunreddy](https://linkedin.com/in/tharunreddy08) *(Update if needed)*  
+- 🌐 **Portfolio / GitHub:** [github.com/tharunreddy08](https://github.com/tharunreddy08)  
+
+---
+
+### 😄 Pronouns
+**He / Him**
+
+---
+
+### ⚡ Fun fact
+Just like code connects systems, I love connecting **tech with creativity** 🎨  
+I believe that clean code, strong logic, and user-first design can truly make a difference.
+
+---
+
+### 🛠️ Tech Stack
+
+**Languages:**  
+Java, SQL  
+
+**Frontend:**  
+HTML, CSS, JavaScript, ReactJS, TailwindCSS  
+
+**Backend:**  
+Node.js, Express.js  
+
+**Databases:**  
+MongoDB, MySQL  
+
+**Tools & Platforms:**  
+Git, GitHub, Postman, VS Code, Firebase, Docker
+
+---
