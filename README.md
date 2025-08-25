@@ -44,10 +44,10 @@
 ---
 
 ### 📫 How to reach me
-- 📧 **Email:** reddytharun2005@gmail.com.com  
-- 💼 **LinkedIn:** [linkedin.com/in/TharunReddy](https://linkedin.com/in/tharunreddy08)  
-- 🌐 **Portfolio / GitHub:** [github.com/TharunReddy](https://github.com/tharunreddy08)  
-
+[![LinkedIn](./assets/linkedin.png)](https://linkedin.com/in/tharunreddy)
+[![GitHub](https://github.com/tharunreddy08.png)](https://github.com/tharunreddy08)
+[![Gmail](https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/gmail.svg)](mailto:tharun.reddy@example.com)
+ 
 ---
 
 ### 😄 Pronouns
