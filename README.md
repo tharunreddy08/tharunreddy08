@@ -44,9 +44,9 @@
 ---
 
 ### 📫 How to reach me
-- 📧 **Email:** tharun.reddy@example.com *(Replace with your actual email)*  
-- 💼 **LinkedIn:** [linkedin.com/in/tharunreddy](https://linkedin.com/in/tharunreddy08) *(Update if needed)*  
-- 🌐 **Portfolio / GitHub:** [github.com/tharunreddy08](https://github.com/tharunreddy08)  
+- 📧 **Email:** reddytharun2005@gmail.com.com  
+- 💼 **LinkedIn:** [linkedin.com/in/TharunReddy](https://linkedin.com/in/tharunreddy08)  
+- 🌐 **Portfolio / GitHub:** [github.com/TharunReddy](https://github.com/tharunreddy08)  
 
 ---
 
