@@ -44,9 +44,9 @@
 ---
 
 ### 📫 How to reach me
-[![LinkedIn](./assets/linkedin.png)](https://linkedin.com/in/tharunreddy)
-[![GitHub](https://github.com/tharunreddy08.png)](https://github.com/tharunreddy08)
-[![Gmail](https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/gmail.svg)](mailto:tharun.reddy@example.com)
+- 📧 **Email:** reddytharun2005@gmail.com 
+- 💼 **LinkedIn:** [linkedin.com/in/TharunReddy](https://linkedin.com/in/tharunreddy08) 
+- 🌐 **Portfolio / GitHub:** [github.com/tharunreddy08](https://github.com/tharunreddy08) 
  
 ---
 
@@ -56,6 +56,7 @@
 ---
 
 ### ⚡ Fun fact
+Man with good looks 😎
 Just like code connects systems, I love connecting **tech with creativity** 🎨  
 I believe that clean code, strong logic, and user-first design can truly make a difference.
 
