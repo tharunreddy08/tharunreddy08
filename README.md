@@ -49,7 +49,7 @@ top performer among peers within the Computer Science Department.
 
 ### 📫 How to reach me
 - 📧 **Email:** reddytharun2005@gmail.com 
-- 💼 **LinkedIn:** [linkedin.com/in/TharunReddy](https://linkedin.com/in/tharunreddy08) 
+- 💼 **LinkedIn:** [linkedin.com/in/tharunredd08y](https://linkedin.com/in/tharunreddy08) 
 - 🌐 **Portfolio / GitHub:** [github.com/tharunreddy08](https://github.com/tharunreddy08) 
  
 ---
