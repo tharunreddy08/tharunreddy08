@@ -5,8 +5,12 @@
 ---
 
 ### 🏆 Achievements
-- Winner of a hackathon and symposium  
-- Recognized as Coding Club Champion  
+- Winner - 24-Hour National Level Hackathon
+Outperformed 300+ teams in an intense 24-hour hackathon, successfully navigating multiple rounds of evaluation.
+Demonstrated exceptional problem-solving skills, innovation, technical excellence under pressure. 
+- All Time Coding Club Champion
+Consistently won the department club coding competition each semester (2 times consecutively). Recongnized as the
+top performer among peers within the Computer Science Department.
 
 ---
 
