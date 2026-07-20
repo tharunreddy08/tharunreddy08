@@ -5,7 +5,7 @@
 
 
 
-### <div align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fredoka+One&size=60&duration=2000&color=B256F7&center=true&vCenter=true&height=70&lines=THARUN+REDDY+S" alt="Typing SVG" /></a>  <br>Pursuing B.E CSE in St. Joseph's College Of Engineering. Desires to be full-stack developer 👨‍💻 Graduating at 27' 🚀</div> 
+### <div align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fredoka+One&size=60&duration=2000&color=00BFFF&center=true&vCenter=true&width=1000&height=70&lines=THARUN+REDDY+S" alt="Typing SVG" /></a>  <br>Pursuing B.E CSE in St. Joseph's College Of Engineering. Desires to be full-stack developer 👨‍💻 Graduating at 27' 🚀</div>
  
 
 - I’m currently working on **Full-Stack Web Development** and **AI Projects**.
