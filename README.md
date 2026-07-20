@@ -1,203 +1,77 @@
 <div align="center">
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" />
+<img src="https://media.baamboozle.com/uploads/images/73330/1644324625_71347_gif-url.gif" align="center" style="width:100%" />
 </div>
 
-<h1 align="center">
-<a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fredoka+One&size=55&duration=3000&pause=800&color=00C2FF&center=true&vCenter=true&width=900&lines=THARUN+REDDY+S;Full+Stack+Developer;AI+Enthusiast;UI%2FUX+Designer;Always+Learning+New+Things" />
-</a>
-</h1>
-
-<h3 align="center">
-🎓 Computer Science Engineering Student <br>
-💻 Passionate Full Stack Developer <br>
-🤖 AI Enthusiast • 🎨 UI/UX Designer
-</h3>
-
-<br>
-
-- 🔭 **Currently Working On:** Full Stack MERN Applications & AI Projects
-
-- 🌱 **Currently Learning:** Java, Data Structures & Algorithms, System Design, Advanced React
-
-- 👯 **Looking to Collaborate On:** Open Source & AI Projects
-
-- 💬 **Ask Me About:** React, Node.js, MongoDB, JavaScript, TailwindCSS
-
-- 📫 **Reach Me:** **reddytharun2005@gmail.com**
-
-- ⚡ **Fun Fact:** I enjoy turning ideas into real-world software that solves meaningful problems.
-
----
-
-# 🏆 Achievements
-
-🥇 Winner – 24-Hour National Level Hackathon
-
-🏆 All-Time Coding Club Champion
-
-🚀 Smart India Hackathon Internal Round Qualifier
-
----
-
-# 💻 My Skill Set
-
-<table>
-<tr>
-
-<td valign="top" width="33%">
-
-## Frontend
-
-<div align="center">
-
-<img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" height="50"/>
-
-<img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" height="50"/>
-
-<img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" height="50"/>
-
-<img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" height="50"/>
-
-<img src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" height="50"/>
-
-<img src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" height="50"/>
-
+### <div align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fredoka+One&size=60&duration=2000&color=B256F7&center=true&vCenter=true&height=70&lines=THARUN+REDDY+S" /></a><br>
+Computer Science Engineering Student • Full Stack Developer 👨‍💻 • AI Enthusiast 🚀
 </div>
 
-</td>
+- 🔭 I’m currently working on Full Stack MERN Applications and AI Projects.
+- 🌱 I’m currently learning Java, Data Structures & Algorithms, Advanced React, Node.js and System Design.
+- 👯 I’m looking to collaborate on Open Source, MERN and AI projects.
+- 💬 Ask me about React, JavaScript, Node.js, Express.js, MongoDB and Tailwind CSS.
+- 🏆 Achievements:
+  - Winner – 24-Hour National Level Hackathon
+  - All-Time Coding Club Champion
+  - Smart India Hackathon Internal Round Qualifier
+- 📫 Email: reddytharun2005@gmail.com
+- ⚡ Fun fact: I enjoy building software that solves real-world problems.
 
-<td valign="top" width="33%">
+<br/>
 
-## Backend
+## My Skill Set
 
+<table><tr><td valign="top" width="33%">
+
+### Frontend
 <div align="center">
-
-<img src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" height="50"/>
-
-<img src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" height="50"/>
-
-<img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" height="50"/>
-
-<img src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" height="50"/>
-
-<img src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" height="50"/>
-
-<img src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" height="50"/>
-
+<img style="margin:10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" height="50"/>
+<img style="margin:10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" height="50"/>
+<img style="margin:10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" height="50"/>
+<img style="margin:10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" height="50"/>
+<img style="margin:10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" height="50"/>
 </div>
 
-</td>
+</td><td valign="top" width="33%">
 
-<td valign="top" width="33%">
-
-## Tools & DevOps
-
+### Backend
 <div align="center">
-
-<img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" height="50"/>
-
-<img src="https://profilinator.rishav.dev/skills-assets/github-original-wordmark.svg" height="50"/>
-
-<img src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" height="50"/>
-
-<img src="https://profilinator.rishav.dev/skills-assets/firebase.png" height="50"/>
-
-<img src="https://profilinator.rishav.dev/skills-assets/visualstudio.png" height="50"/>
-
-<img src="https://profilinator.rishav.dev/skills-assets/postman.svg" height="50"/>
-
+<img style="margin:10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" height="50"/>
+<img style="margin:10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" height="50"/>
+<img style="margin:10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" height="50"/>
+<img style="margin:10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" height="50"/>
+<img style="margin:10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" height="50"/>
+<img style="margin:10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" height="50"/>
 </div>
 
-</td>
+</td><td valign="top" width="33%">
 
-</tr>
-</table>
-
----
-
-# 🚀 Featured Projects
-
-### 🩺 Clarity.MR.AI
-Explainable AI-powered Medical Report Analyzer
-
-### ⚡ EVSmartRoute
-AI Battery Optimized Route Planning for Electric Vehicles
-
-### 🚚 RouteXAI
-Dynamic Delivery Route Optimization Platform
-
-### 🌐 Portfolio Website
-Modern Responsive Developer Portfolio
-
----
-
-# 🌐 Connect with Me
-
+### DevOps & Tools
 <div align="center">
-
-<a href="https://github.com/tharunreddy08">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://linkedin.com/in/tharunreddy08">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="mailto:reddytharun2005@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail"/>
-</a>
-
+<img style="margin:10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" height="50"/>
+<img style="margin:10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" height="50"/>
+<img style="margin:10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" height="50"/>
 </div>
 
----
+</td></tr></table>
 
-# 📊 GitHub Stats
+## Connect with me
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=tharunreddy08&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tharunreddy08&layout=compact&theme=tokyonight&hide_border=true"/>
-
+<a href="https://github.com/tharunreddy08"><img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://linkedin.com/in/tharunreddy08"><img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:reddytharun2005@gmail.com"><img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </div>
 
----
-
-# 🔥 GitHub Streak
+## Github Stats
 
 <div align="center">
-
-<img src="https://streak-stats.demolab.com?user=tharunreddy08&theme=tokyonight&hide_border=true"/>
-
+<img src="https://github-readme-stats.vercel.app/api?username=tharunreddy08&theme=midnight-purple&show_icons=true&count_private=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tharunreddy08&theme=material-palenight"/>
 </div>
 
----
-
-# 🏆 GitHub Trophies
+## Chillaxx
 
 <div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=tharunreddy08&theme=tokyonight&no-frame=true&row=1"/>
-
-</div>
-
----
-
-# 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=tharunreddy08&theme=tokyo-night"/>
-
-</div>
-
----
-
-<div align="center">
-
-### 💡 "Building scalable software with clean code, modern technologies, and AI-driven innovation."
-
-⭐ Thanks for visiting my profile!
-
+<img src="https://spotify-github-profile.vercel.app/api/view?theme=default"/>
 </div>
