@@ -100,9 +100,21 @@
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
 </div>  
-  
-
 <br/>  
+
+## 🏆 Achievements
+
+- 🥇 **Winner - 24-Hour National Level Hackathons** *(Mechovate 2K25, Innothon 2K24)*  
+  Secured first place by building innovative solutions and demonstrating strong problem-solving skills under time constraints.
+
+- 🥇 **Winner - National Level Student Symposium**  
+  Achieved **1st place among 50+ teams** through multiple coding and problem-solving rounds.
+
+- 🏅 **All-Time Coding Club Champion**  
+  Won the department coding club championship for **3 consecutive semesters**, recognized for consistent coding performance.
+
+- 🚀 **Smart India Hackathon 2025 - Shortlisted Team**  
+  Selected among the **Top 50 teams out of 150+ teams** in the SIH internal hackathon for proposing an innovative solution.
 
 
 # 📊 GitHub Stats:
