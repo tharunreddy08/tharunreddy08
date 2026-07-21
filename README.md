@@ -104,7 +104,7 @@
 
 ## 🏆 Achievements
 
-- 🥇 **Winner - 24-Hour National Level Hackathons** *(Mechovate 2K25, Innothon 2K24)*  
+- 🥇 **Winner - 24-Hour National Level Hackathons** *(Mechovate 2K25, GEN-E-TRIX 2K24)*  
   Secured first place by building innovative solutions and demonstrating strong problem-solving skills under time constraints.
 
 - 🥇 **Winner - National Level Student Symposium**  
